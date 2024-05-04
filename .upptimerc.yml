@@ -22,7 +22,7 @@ status-website:
   introTitle: "Monitor estatus para los sistemas web del colegio SigloXXI."
   introMessage: A continuación, se enlistan los servicios monitorizados por el sistema.
   navbar:
-    - title: Status
+    - title: Estatus
       href: /sigloxxi_status
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
@@ -35,16 +35,14 @@ i18n:
   partialOutage: "Sistemas caídos parcialmente"
   history: "Historial"
   responseTime: "Tiempo de respuesta"
-  uptime: "Tiempo en funcionamiento"
   up: "Funcionando"
   degraded: "Funcionando parcialmente"
   down: "No funciona"
   responseTimeGraphAlt: "Gráfico de tiempo de respuesta"
-  responseTime: "Response time"
-  responseTimeDay: "24-hour response time"
-  responseTimeWeek: "7-day response time"
-  responseTimeMonth: "30-day response time"
-  responseTimeYear: "1-year response time"
+  responseTimeDay: "Tiempos de respuesta las últimas 24 horas"
+  responseTimeWeek: "Tiempos de respuesta los últimos 7 dias"
+  responseTimeMonth: "Tiempos de respuesta los últimos 30 dias"
+  responseTimeYear: "Tiempos de respuesta el último año"
   uptime: "Funcionando desde siempre"
   uptimeDay: "Funcionando las ultimas 24 horas"
   uptimeWeek: "Funcionando los últimos 7 dias"
