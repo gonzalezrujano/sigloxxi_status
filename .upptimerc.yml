@@ -17,7 +17,7 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   # cname: demo.upptime.js.org
   baseUrl: /sigloxxi_status
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: https://raw.githubusercontent.com/gonzalezrujano/sigloxxi_status/master/assets/logo_sigloxxi.png
   name: Colegio SigloXXI
   introTitle: "Monitor y página de estatus para los sistemas web del colegio SigloXXI."
   introMessage: A continuación, se enlistan los servicios monitorizados por el sistema.
