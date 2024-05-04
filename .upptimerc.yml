@@ -19,7 +19,7 @@ status-website:
   baseUrl: /sigloxxi_status
   logoUrl: https://raw.githubusercontent.com/gonzalezrujano/sigloxxi_status/master/assets/logo_sigloxxi.png
   name: Colegio SigloXXI
-  introTitle: "Monitor de estatus para los sistemas web del colegio SigloXXI."
+  introTitle: "Monitoreo para los sistemas web del colegio SigloXXI"
   introMessage: A continuación, se enlistan los servicios monitorizados por el sistema.
   navbar:
     - title: Estatus
