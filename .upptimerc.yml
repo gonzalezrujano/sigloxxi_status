@@ -5,19 +5,12 @@ repo: sigloxxi_status # The name of this repository
 sites:
   - name: Página principal
     url: https://colegiosigloxxi.net
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
-  - name: IPv6 test
-    url: forwardemail.net
-    port: 80
-    check: "tcp-ping"
-    ipv6: true
+  - name: Registro de alumnos nuevos
+    url: https://register.colegiosigloxxi.net
+  - name: Control de pagos
+    url: https://pagos.colegiosigloxxi.net/auth/login
+  - name: Aula virtual
+    url: https://aula.colegiosigloxxi.net/auth/login
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -25,9 +18,9 @@ status-website:
   # cname: demo.upptime.js.org
   baseUrl: /sigloxxi_status
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  name: Colegio SigloXXI
+  introTitle: "Monitor y página de estatus para los sistemas web del colegio SigloXXI."
+  introMessage: A continuación, se enlistan los servicios monitorizados por el sistema.
   navbar:
     - title: Status
       href: /sigloxxi_status
