@@ -19,7 +19,7 @@ status-website:
   baseUrl: /sigloxxi_status
   logoUrl: https://raw.githubusercontent.com/gonzalezrujano/sigloxxi_status/master/assets/logo_sigloxxi.png
   name: Colegio SigloXXI
-  introTitle: "Monitor estatus para los sistemas web del colegio SigloXXI."
+  introTitle: "Monitor de estatus para los sistemas web del colegio SigloXXI."
   introMessage: A continuación, se enlistan los servicios monitorizados por el sistema.
   navbar:
     - title: Estatus
@@ -28,16 +28,10 @@ status-website:
       href: https://github.com/$OWNER/$REPO
 
 i18n:
-  activeIncidents: Incidentes activos
-  allSystemsOperational: Todos los sistemas están operativos
   degradedPerformance: "El tiempo de respuesta de los procesos no es óptimo"
   completeOutage: "Sistemas caídos completamente"
   partialOutage: "Sistemas caídos parcialmente"
   history: "Historial"
-  responseTime: "Tiempo de respuesta"
-  up: "Funcionando"
-  degraded: "Funcionando parcialmente"
-  down: "No funciona"
   responseTimeGraphAlt: "Gráfico de tiempo de respuesta"
   responseTimeDay: "Tiempos de respuesta las últimas 24 horas"
   responseTimeWeek: "Tiempos de respuesta los últimos 7 dias"
@@ -48,8 +42,48 @@ i18n:
   uptimeWeek: "Funcionando los últimos 7 dias"
   uptimeMonth: "Funcionando el último mes"
   uptimeYear: "Funcionando el último año"
-  liveStatus: "Estatus en vivo"
   liveStatusHtmlComment: "<!--estatus en vivo-->"
+  activeIncidents: Incidentes activos
+  allSystemsOperational: Todos los sistemas están operativos
+  incidentReport: "Incidente #$NUMBER reportado →"
+  activeIncidentSummary: Abierto el $DATE con $POSTS comentarios
+  incidentTitle: Incidente $NUMBER
+  incidentDetails: Detalles del incidente
+  incidentFixed: Solventado
+  incidentOngoing: En curso
+  incidentOpenedAt: Abierto el
+  incidentClosedAt: Cerrado el
+  incidentViewOnGitHub: Visto y suscrito en Github
+  incidentCommentSummary: Publicado el $DATE por $AUTHOR
+  incidentBack: ← Regresar a todos los incidentes
+  pastIncidents: Incidentes pasados
+  pastIncidentsResolved: Resuelto en $MINUTES minutos con $POSTS comentarios
+  liveStatus: "Estatus en vivo"
+  overallUptime: "Funcionamiento global: $UPTIME"
+  overallUptimeTitle: Funcionamiento global
+  averageResponseTime: "Tiempo de respuesta promedio: $TIMEms"
+  averageResponseTimeTitle: Promedio de respuesta
+  sevelDayResponseTime: Funcionando los últimos 7 dias
+  responseTimeMs: Tiempo de respuesta (ms)
+  up: Operativo
+  down: Caído
+  degraded: Degradado
+  ms: ms
+  loading: Cargando
+  navGitHub: GitHub
+  footer: This page is [open source]($REPO), powered by [Upptime](https://upptime.js.org)
+  pastScheduledMaintenance: Mantenimientos programados anteriores
+  scheduledMaintenance: Mantenimiento programado
+  scheduledMaintenanceSummaryStarted: Inicio el $DATE por $DURATION minutos
+  scheduledMaintenanceSummaryStarts: Inicia el $DATE por $DURATION minutos
+  startedAt: Inicio el
+  startsAt: Inicia el
+  duration: Duración
+  durationMin: $DURATION minutos
+  incidentCompleted: Completado
+  incidentScheduled: Programado
+  duration1Y: 1año
+  durationAll: Todo
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
