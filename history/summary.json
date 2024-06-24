@@ -40,19 +40,19 @@
     "url": "https://pagos.colegiosigloxxi.net/auth/login",
     "icon": "https://icons.duckduckgo.com/ip3/pagos.colegiosigloxxi.net.ico",
     "slug": "control-de-pagos",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 168,
-    "timeDay": 127,
-    "timeWeek": 198,
-    "timeMonth": 155,
-    "timeYear": 168,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "99.02%",
+    "uptimeWeek": "99.86%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.98%",
+    "time": 166,
+    "timeDay": 96,
+    "timeWeek": 181,
+    "timeMonth": 152,
+    "timeYear": 166,
     "dailyMinutesDown": {
-      "2024-06-24": 1
+      "2024-06-24": 14
     }
   },
   {
@@ -60,19 +60,19 @@
     "url": "https://aula.colegiosigloxxi.net/auth/login",
     "icon": "https://icons.duckduckgo.com/ip3/aula.colegiosigloxxi.net.ico",
     "slug": "aula-virtual",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "99.05%",
+    "uptimeWeek": "99.86%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.98%",
     "time": 153,
-    "timeDay": 133,
-    "timeWeek": 173,
-    "timeMonth": 132,
+    "timeDay": 149,
+    "timeWeek": 172,
+    "timeMonth": 133,
     "timeYear": 153,
     "dailyMinutesDown": {
-      "2024-06-24": 0
+      "2024-06-24": 14
     }
   }
 ]
