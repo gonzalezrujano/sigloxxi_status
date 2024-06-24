@@ -40,10 +40,10 @@
     "url": "https://pagos.colegiosigloxxi.net/auth/login",
     "icon": "https://icons.duckduckgo.com/ip3/pagos.colegiosigloxxi.net.ico",
     "slug": "control-de-pagos",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 168,
@@ -51,16 +51,18 @@
     "timeWeek": 198,
     "timeMonth": 155,
     "timeYear": 168,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-06-24": 1
+    }
   },
   {
     "name": "Aula virtual",
     "url": "https://aula.colegiosigloxxi.net/auth/login",
     "icon": "https://icons.duckduckgo.com/ip3/aula.colegiosigloxxi.net.ico",
     "slug": "aula-virtual",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -69,6 +71,8 @@
     "timeWeek": 173,
     "timeMonth": 132,
     "timeYear": 153,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-06-24": 0
+    }
   }
 ]
