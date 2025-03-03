@@ -4,71 +4,79 @@
     "url": "https://colegiosigloxxi.net",
     "icon": "https://icons.duckduckgo.com/ip3/colegiosigloxxi.net.ico",
     "slug": "pagina-principal",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 226,
-    "timeDay": 110,
-    "timeWeek": 153,
-    "timeMonth": 235,
-    "timeYear": 226,
-    "dailyMinutesDown": {}
+    "time": 227,
+    "timeDay": 184,
+    "timeWeek": 166,
+    "timeMonth": 237,
+    "timeYear": 227,
+    "dailyMinutesDown": {
+      "2025-03-03": 2
+    }
   },
   {
     "name": "Registro de alumnos nuevos",
     "url": "https://register.colegiosigloxxi.net",
     "icon": "https://icons.duckduckgo.com/ip3/register.colegiosigloxxi.net.ico",
     "slug": "registro-de-alumnos-nuevos",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 191,
-    "timeDay": 153,
-    "timeWeek": 155,
-    "timeMonth": 216,
-    "timeYear": 191,
-    "dailyMinutesDown": {}
+    "time": 192,
+    "timeDay": 199,
+    "timeWeek": 178,
+    "timeMonth": 219,
+    "timeYear": 192,
+    "dailyMinutesDown": {
+      "2025-03-03": 1
+    }
   },
   {
     "name": "Control de pagos",
     "url": "https://pagos.colegiosigloxxi.net/auth/login",
     "icon": "https://icons.duckduckgo.com/ip3/pagos.colegiosigloxxi.net.ico",
     "slug": "control-de-pagos",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 194,
-    "timeDay": 84,
-    "timeWeek": 143,
-    "timeMonth": 222,
+    "timeDay": 210,
+    "timeWeek": 151,
+    "timeMonth": 221,
     "timeYear": 194,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-03-03": 1
+    }
   },
   {
     "name": "Aula virtual",
     "url": "https://aula.colegiosigloxxi.net/auth/login",
     "icon": "https://icons.duckduckgo.com/ip3/aula.colegiosigloxxi.net.ico",
     "slug": "aula-virtual",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 188,
-    "timeDay": 109,
-    "timeWeek": 126,
-    "timeMonth": 195,
+    "timeDay": 200,
+    "timeWeek": 138,
+    "timeMonth": 196,
     "timeYear": 188,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-03-03": 0
+    }
   }
 ]
