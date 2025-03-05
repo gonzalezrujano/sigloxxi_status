@@ -6,18 +6,16 @@
     "slug": "pagina-principal",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.05%",
-    "uptimeWeek": "99.86%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 227,
-    "timeDay": 262,
-    "timeWeek": 188,
-    "timeMonth": 240,
+    "timeDay": 166,
+    "timeWeek": 232,
+    "timeMonth": 248,
     "timeYear": 227,
-    "dailyMinutesDown": {
-      "2025-03-03": 14
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Registro de alumnos nuevos",
@@ -26,18 +24,16 @@
     "slug": "registro-de-alumnos-nuevos",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.08%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 192,
-    "timeDay": 261,
-    "timeWeek": 196,
-    "timeMonth": 223,
-    "timeYear": 192,
-    "dailyMinutesDown": {
-      "2025-03-03": 13
-    }
+    "time": 193,
+    "timeDay": 194,
+    "timeWeek": 230,
+    "timeMonth": 228,
+    "timeYear": 193,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Control de pagos",
@@ -46,18 +42,16 @@
     "slug": "control-de-pagos",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.11%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 195,
-    "timeDay": 267,
-    "timeWeek": 173,
+    "timeDay": 185,
+    "timeWeek": 198,
     "timeMonth": 224,
     "timeYear": 195,
-    "dailyMinutesDown": {
-      "2025-03-03": 13
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Aula virtual",
@@ -66,17 +60,15 @@
     "slug": "aula-virtual",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.15%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 189,
-    "timeDay": 273,
-    "timeWeek": 164,
-    "timeMonth": 201,
+    "timeDay": 132,
+    "timeWeek": 200,
+    "timeMonth": 206,
     "timeYear": 189,
-    "dailyMinutesDown": {
-      "2025-03-03": 12
-    }
+    "dailyMinutesDown": {}
   }
 ]
